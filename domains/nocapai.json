@@ -4,6 +4,7 @@
     "email": "jabogabiro1@gmail.com"
   },
   "record": {
-    "CNAME": "nocap-ai.netlify.app"
+    "CNAME": "nocap-ai.netlify.app",
+    "TXT": "google-site-verification=HunJpG1CsPOJlRxorWAsZovUNiv4ZeLMizALAsjm_ro"
   }
 }
